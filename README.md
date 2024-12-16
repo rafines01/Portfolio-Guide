@@ -17,7 +17,8 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | **Project Name**                    | **Area of Analysis**       | **Project Description**                                                                                         |
 |-------------------------------------|----------------------------|-----------------------------------------------------------------------------------------------------------------|
-| 💡 SQL Case-Study Challenges        | Data Analysis, Transformation | Solved a case study from the #8WeekSQLChallenge. Demonstrated expertise in data wrangling, query optimization, and answering complex business questions with SQL. |
+| 💡 SQL Case-Study #1 Challenges    |  Data Analysis, Transformation  | To help the restaurant grow, Danny collected customer data but needed help to analyze it effectively. This case study aims to help Danny derive insights from the data, enhancing customer experience and supporting business decisions.|
+| 💡 SQL Case-Study #2 Challenges    | Data Analysis, Transformation | This case study focuses on assisting Danny with data analysis to streamline operations, manage runners effectively, and improve the customer experience. |
 | 🎥 IMDB Movie Analysis              | Hollywood Data, EDA        | Answered key business questions about Hollywood movies, including profitability of actors and directors, budget impact, and revenue analysis using SQL. |
 | 🟣️ 2016 Election Donation Analysis | Political Analysis         | Analyzed election donations during the 2016 U.S. election to uncover trends in donor patterns and campaign funding. Conducted extensive data wrangling and summarization with SQL. |
 
